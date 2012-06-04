@@ -41,7 +41,7 @@ class Webshell {
      *
      * @var string
      */
-    private $_baseUrl = 'http://webshell.fr/api';
+    private $_baseUrl = 'http://webshell.io/api';
 
     private static $_instance;
 
